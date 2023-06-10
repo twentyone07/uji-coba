@@ -78,13 +78,15 @@
     "error": false,
     "message": null,
     "data": {
-        "_id": "647c62fa9286ac93bf8f6f5d",
-        "name": "dimas",
-        "email": "1masdim@gmail.com",
-        "password": "$2b$12$f4.qM.QubPpFfEaawbAUA.Gq8rhM7gzEPUvgz04mSTv30prjFfy1q",
-        "createdAt": "1685873402025",
-        "imageUrl": "https://storage.googleapis.com/bucket_rest_api/user-img/FHOTzPyWUAYUdl_-1686147653477.jpg",
-        "__v": 0
+        "DataProfil": {
+            "_id": "647c62fa9286ac93bf8f6f5d",
+            "name": "dimas",
+            "email": "1masdim@gmail.com",
+            "password": "$2b$12$f4.qM.QubPpFfEaawbAUA.Gq8rhM7gzEPUvgz04mSTv30prjFfy1q",
+            "createdAt": "1685873402025",
+            "imageUrl": "https://storage.googleapis.com/bucket_rest_api/user-img/FHOTzPyWUAYUdl_-1686147653477.jpg",
+            "__v": 0
+        }
     }
 }
 ```
